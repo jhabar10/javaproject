@@ -15,6 +15,17 @@ public class Hello
 		@since: 2019
 
 	**/
+	int a;
+	float f;
+	char c;
+	double d;
+	long l;
+	boolean b;
+	Double d;
+	Boolean b;
+	Long l;
+
+
 
 	public static void main(String[] args)
 	{
